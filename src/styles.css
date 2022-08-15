@@ -1,0 +1,14 @@
+html,
+body,
+ul {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style-type: none;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+}
